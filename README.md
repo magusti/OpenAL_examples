@@ -1,4 +1,4 @@
-OpenAL examples
+<h1>OpenAL examples</h1>
 
 "OpenAL examples" is a repository of examples code that uses OpenAL in several ways.
 <ul>
@@ -11,7 +11,7 @@ The code has documentation (in Spanish) that remarks on the sources used to buil
 
 I tried to explicitly put the references from where I got the inspiration or the exact example that I reproduced, but if you miss one reference, please do not hesitate to send me an email.
 <ul>
- <li>(2021). Reproducción de ficheros MIDI con OpenAL. <http://hdl.handle.net/10251/170183>
+ <li>(2021). Reproducción de ficheros MIDI con OpenAL. %gt;http://hdl.handle.net/10251/170183&lt;.
 </ul>
 
 
