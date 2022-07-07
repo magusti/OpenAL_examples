@@ -13,7 +13,7 @@ The code has documentation (in Spanish) that remarks on the sources used to buil
 
 I tried to explicitly put the references from where I got the inspiration or the exact example that I reproduced, but if you miss one reference, please do not hesitate to send me an email.
 <ul>
- <li> (2011). Introducción al procesado de audio mediante OpenAL. &lt;&lt;http://hdl.handle.net/10251/12694 &gt;. Keywords:
+ <li> (2011). Introducción al procesado de audio mediante OpenAL. &lt;http://hdl.handle.net/10251/12694 &gt;. Keywords:
 Procesado de audio , Openal
 
 <li> (2011). Efectos de audio básicos mediante OpenAL. &lt;http://hdl.handle.net/10251/12696&gt;. Keywords:
@@ -61,10 +61,12 @@ Free Lossless Audio Codec (FLAC) , Ficheros FLAC , FLAC , OpenAL , Importar clip
   
  <!-- <li> nomDelSubdirectori: Referència a riunet &lt; URL &gt;. Keywords: paraules clau.</li> -->
  
+ <li> Agustí Melchor, M. (2022). OpenAL: usando libsndfile para reproducción en streaming de ficheros de audio. Universitat Politècnica de València. &lt;http://hdl.handle.net/10251/183656 &gy;. Keywords: libsndfile, OpenAL, Streaming, Reproducir audio en continuo.  </li>
+ 
  <li> (2022). Extendiendo OpenAL con ficheros MP3 y libmpg123. &lt;http://hdl.handle.net/10251/183758 &gt;. Keywords: mpg123, MP3, libmpg123, OpenAL.</li>
  
- <li> OpenAL_libsndfile_preload: (2022). </li>
- <li> Agustí Melchor, M. (2022). OpenAL: usando libsndfile para reproducción en streaming de ficheros de audio. Universitat Politècnica de València. &lt;http://hdl.handle.net/10251/183656 &gy;. Keywords: libsndfile, OpenAL, Streaming, Reproducir audio en continuo.  </li>
+ <li> (2022). OpenAL: comparativa de ALUT y libsndfile para reproducción en precarga de ficheros de audio. &lt;http://hdl.handle.net/10251/183788 &gt;. Keywords:  Códecs de audio, Waveform Audio Format (WAV), Free Lossless Audio Codec (FLAC), ficheros de audio, OpenAL Utility Toolkit (ALUT), libsndfile, OpenAL, WAVE, FLAC. </li>
+ 
  
  <li> OpenAL_drawingFFT: (2023?). </li>
   
@@ -87,7 +89,7 @@ Thanks
  
  Thanks to the community of persons that maintain the OpenAL website  &lt;http://www.openal.org&gt;, the "openal mailing list" &lt;https://openal.org/mailman/listinfo/openal&gt;, and to everybody that ask and answer in the "openal mailing list".
 
- And especially to Chris Robinson by his OpenAL Soft &lt;https://openal-soft.org/&gt; / &lt;https://github.com/kcat/openal-soft&gt; that makes possible that everyone can use this standard and for publish it under a LGPL license. Also for ALURE %gt;https://github.com/kcat/alure&lt;, and also for his expert and kind words in emails.
+ And especially to Chris Robinson by his OpenAL Soft &lt;https://openal-soft.org/&gt; / &lt;https://github.com/kcat/openal-soft&gt; that makes possible that everyone can use this standard and for publish it under a LGPL license. Also for ALURE &lt;https://github.com/kcat/alure&gt;, and also for his expert and kind words in emails.
 
 
 
