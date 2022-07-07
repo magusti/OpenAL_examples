@@ -61,13 +61,35 @@ Free Lossless Audio Codec (FLAC) , Ficheros FLAC , FLAC , OpenAL , Importar clip
   
  <!-- <li> nomDelSubdirectori: Referència a riunet &lt; URL &gt;. Keywords: paraules clau.</li> -->
  
+ <li> (2022). Extendiendo OpenAL con ficheros MP3 y libmpg123. &lt;http://hdl.handle.net/10251/183758 &gt;. Keywords: mpg123, MP3, libmpg123, OpenAL.</li>
+ 
  <li> OpenAL_libsndfile_preload: (2022). </li>
- <li> OpenAL_libsndfile_streaming: (2022). </li>
- <li> OpenAL_drawingFFT: (2022). </li>
+ <li> Agustí Melchor, M. (2022). OpenAL: usando libsndfile para reproducción en streaming de ficheros de audio. Universitat Politècnica de València. &lt;http://hdl.handle.net/10251/183656 &gy;. Keywords: libsndfile, OpenAL, Streaming, Reproducir audio en continuo.  </li>
+ 
+ <li> OpenAL_drawingFFT: (2023?). </li>
   
 </ul>
 
 
-Thanks to the community of persons that maintain the OpenAL website  <http://www.openal.org>, the "openal mailing list" <https://openal.org/mailman/listinfo/openal>  and especially to Chris Robinson by his OpenAL Soft <https://openal-soft.org/> that makes possible that everyone can use this standard.
+Thanks
+ To Loki Soft for create and distribute OpenAL for free. I hope it will become as free as it deserves. And also by the "OpenAL Specification and Reference" &lt;https://www.openal.org/documentation/ &gt;.
 
-M. Agustí (2022). magusti at disca.upv.es
+ To Garin Hiebert, Garin Hiebert, Peter Harrison and Daniel Peacock for the OpenAL documentation:  "OpenAL Programmer's Guide" &lt;https://www.openal.org/documentation/ &gt;.
+
+ To Steve Baker and Sven Panne <http://distro.ibiblio.org/rootlinux/rootlinux-ports/more/freealut/freealut-1.1.0/doc/alut.html#alutGetMIMETypes> for the "OpenAL Utility Toolkit (ALUT) Reference Manual".
+
+ To vancegroup <https://github.com/vancegroup/freealut/> for implementing "freealut" <http://distro.ibiblio.org/rootlinux/rootlinux-ports/more/freealut/freealut-1.1.0/doc/alut.html>.
+
+ To Daniel Peacock, Peter Harrison, Andrea D’Orta, Valery Carpentier and Edward Cooper for the "Effects Extension Guide" &lt;https://usermanual.wiki/Pdf/Effects20Extension20Guide.90272296/html &gt;.
+
+ To Ryan A. Pavlik <https://github.com/rpavlik/openal-svn-mirror>  for publish the original fork of OpenAL.
+
+ 
+ Thanks to the community of persons that maintain the OpenAL website  &lt;http://www.openal.org&gt;, the "openal mailing list" &lt;https://openal.org/mailman/listinfo/openal&gt;, and to everybody that ask and answer in the "openal mailing list".
+
+ And especially to Chris Robinson by his OpenAL Soft &lt;https://openal-soft.org/&gt; / &lt;https://github.com/kcat/openal-soft&gt; that makes possible that everyone can use this standard and for publish it under a LGPL license. Also for ALURE %gt;https://github.com/kcat/alure&lt;, and also for his expert and kind words in emails.
+
+
+
+
+M. Agustí (2021-2022). magusti at disca.upv.es
