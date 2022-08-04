@@ -1,0 +1,1 @@
+/home/magusti/docencia/2k21-2k22/SMII/practiques/practica3_Audio/practica03b_grabacionMicrofono_OpenAL/microOpenAL.c

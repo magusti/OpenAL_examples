@@ -1,4 +1,5 @@
-<h1>OpenAL examples</h1>
+<!-- Articles docentes sobre OpenAL -->
+ll <h1>OpenAL examples</h1>
 This repository must be considered a contribution to the community of OpenAL developers and my own way to get back the lessons that I have been learning from others.
 
 "OpenAL examples" is a repository of examples of C source code that uses OpenAL in several ways:
@@ -25,14 +26,14 @@ Procesado de audio, Openal
  <li> Audio posicional, Audio envolvente, Audio espacial, Audio 3d, Procesado de audio, Openal
 
  
- <li> (2012). Uso del micrófono para captura de audio en OpenAL. &lt;http://hdl.handle.net/10251/17547 &gt;. Keywords:
+ <li> OpenAL_microphone: (2012). Uso del micrófono para captura de audio en OpenAL. &lt;http://hdl.handle.net/10251/17547 &gt;. Keywords:
  Captura de audio, Adquisición de audio, Micrófono, Openal
  
  
- <li> (2018). Extendiendo OpenAL con OGG Vorbis. &lt;http://hdl.handle.net/10251/109210 &gt;. Keywords:
+ <li> OpenAL_Vorbis: (2018). Extendiendo OpenAL con OGG Vorbis. &lt;http://hdl.handle.net/10251/109210 &gt;. Keywords:
  Ogg Vorbis, OpenAL, importar Vorbis, PCM, audio comprimido.
 
- <li> (2018). Extendiendo OpenAL con SDL. Caso de estudio MP3. &lt;http://hdl.handle.net/10251/105383 &gt;. Keywords:
+ <li> OpenAL_SDL_MP3: (2018). Extendiendo OpenAL con SDL. Caso de estudio MP3. &lt;http://hdl.handle.net/10251/105383 &gt;. Keywords:
 OpenAL, SDL, MP3
 
  <li> (2018). Extensiones para OpenAL: efectos ambientales. &lt;http://hdl.handle.net/10251/105664 &gt;. Keywords:
@@ -61,9 +62,7 @@ Free Lossless Audio Codec (FLAC), Ficheros FLAC, FLAC, OpenAL, Importar clip de 
   Formatos audio, formato MIDI, Musical Instrument Digital Interface (MIDI), WildMIDI library, MIDI, OpenAL, Importar MIDI. 
   
   
- <!-- <li> nomDelSubdirectori: Referència a riunet &lt; URL &gt;. Keywords: paraules clau.</li> -->
- 
- 
+ <!-- 2k21/2k22 -->
  <li> OpenAL_ALUT_vs_ALC_AL: (2022). Arquitectura de niveles en OpenAL: AL, ALC y ALUT. &lt;http://hdl.handle.net/10251/184326 &gt;. Keywords:  ALC API, Audio API, OpenAL Utility Toolkit (ALUT), Open Audio Library, ALUT, OpenAL, Operaciones de ALUT, OpenAL sin ALUT, Audio Layer (AL). </li>
  
  <li> OpenAL_libsndfile_streaming: (2022). OpenAL: usando libsndfile para reproducción en streaming de ficheros de audio. Universitat Politècnica de València. &lt;http://hdl.handle.net/10251/183656 &gt;. Keywords:  Libsndfile, OpenAL, Streaming, Reproducir audio en continuo.</li>
@@ -76,6 +75,8 @@ Free Lossless Audio Codec (FLAC), Ficheros FLAC, FLAC, OpenAL, Importar clip de 
  
  <li> 
 OpenAL_ALURE_ficherosDeAudio: (2022). ALURE: interfaz de alto nivel para OpenAL. Servicios relacionados con la reproducción de ficheros de audio. &lt;http://hdl.handle.net/10251/184940 &gt;. Keywords: ALURE, ALUT, OpenAL, Reproducción de ficheros de audio, Cargar audio desde fichero.</li>
+ 
+ <!-- <li> nomDelSubdirectori: Referència a riunet &lt; URL &gt;. Keywords: paraules clau.</li> -->
  
  <!--
  <li> OpenAL_drawingFFT: (2023?). </li>
