@@ -12,6 +12,8 @@ This repository must be considered a contribution to the community of OpenAL dev
 The code has documentation (in Spanish) that remarks on the sources used to build the examples or from where I obtained them. The idea behind each use case and a little explanation of the code. Also, you can find a way to compile these examples from a Linux terminal. 
 
 I tried to explicitly put the references from where I got the inspiration or the exact example that I reproduced, but if you miss one reference, please do not hesitate to send me an email.
+
+List of OpenAL related articles:
 <ul>
  <li> (2011). Introducción al procesado de audio mediante OpenAL. &lt;http://hdl.handle.net/10251/12694 &gt;. Keywords:
 Procesado de audio , Openal
@@ -61,25 +63,24 @@ Free Lossless Audio Codec (FLAC) , Ficheros FLAC , FLAC , OpenAL , Importar clip
   
  <!-- <li> nomDelSubdirectori: Referència a riunet &lt; URL &gt;. Keywords: paraules clau.</li> -->
  
- <li> Agustí Melchor, M. (2022). OpenAL: usando libsndfile para reproducción en streaming de ficheros de audio. Universitat Politècnica de València. &lt;http://hdl.handle.net/10251/183656 &gy;. Keywords: libsndfile, OpenAL, Streaming, Reproducir audio en continuo.  </li>
+ <li> (2022). OpenAL: usando libsndfile para reproducción en streaming de ficheros de audio. Universitat Politècnica de València. &lt;http://hdl.handle.net/10251/183656 &gt;. Keywords: libsndfile, OpenAL, Streaming, Reproducir audio en continuo.  </li>
  
  <li> (2022). Extendiendo OpenAL con ficheros MP3 y libmpg123. &lt;http://hdl.handle.net/10251/183758 &gt;. Keywords: mpg123, MP3, libmpg123, OpenAL.</li>
  
  <li> (2022). OpenAL: comparativa de ALUT y libsndfile para reproducción en precarga de ficheros de audio. &lt;http://hdl.handle.net/10251/183788 &gt;. Keywords:  Códecs de audio, Waveform Audio Format (WAV), Free Lossless Audio Codec (FLAC), ficheros de audio, OpenAL Utility Toolkit (ALUT), libsndfile, OpenAL, WAVE, FLAC. </li>
  
  
- <li> (2022). Arquitectura de niveles en OpenAL: AL, ALC y ALUT. <http://hdl.handle.net/10251/184326>
- </li>
+ <li> (2022). Arquitectura de niveles en OpenAL: AL, ALC y ALUT. &lt;http://hdl.handle.net/10251/184326 &gt;. Keywords:  ALC API, Audio API, OpenAL Utility Toolkit (ALUT), Open Audio Library, ALUT, OpenAL, Operaciones de ALUT, OpenAL sin ALUT, Audio Layer (AL). </li>
  
- <li> (2022). OpenAL: usando libsndfile para reproducción en streaming de ficheros de audio. Universitat Politècnica de València. <http://hdl.handle.net/10251/183656>   </li>
+ <li> (2022). OpenAL: usando libsndfile para reproducción en streaming de ficheros de audio. Universitat Politècnica de València. &lt;http://hdl.handle.net/10251/183656 &gt;. Keywords:  Libsndfile, OpenAL, Streaming, Reproducir audio en continuo.</li>
  
- <li> (2022). OpenAL: comparativa de ALUT y libsndfile para reproducción en precarga de ficheros de audio. <http://hdl.handle.net/10251/183788>  </li>
+ <li> (2022). OpenAL: comparativa de ALUT y libsndfile para reproducción en precarga de ficheros de audio. &lt;http://hdl.handle.net/10251/183788 &gt;. Keywords: Códecs de audio , Waveform Audio Format (WAV) , Free Lossless Audio Codec (FLAC), Ficheros de audio, OpenAL Utility Toolkit (ALUT), Libsndfile, OpenAL, WAVE, FLAC.</li>
  
- <li> (2022). Extendiendo OpenAL con ficheros MP3 y libmpg123. <http://hdl.handle.net/10251/183758>.   </li>
+ <li> (2022). Extendiendo OpenAL con ficheros MP3 y libmpg123. &lt;http://hdl.handle.net/10251/183758 &gt;. Keywords:  .</li>
  
- <li> (2022). ALURE: interfaz de alto nivel para OpenAL. Servicios relacionados con el hardware de audio. <http://hdl.handle.net/10251/184329>.   </li>
+ <li> (2022). ALURE: interfaz de alto nivel para OpenAL. Servicios relacionados con el hardware de audio. &lt;http://hdl.handle.net/10251/184329 &gt;. Keywords:  mpg123, MP3, libmpg123, OpenAL.</li>
  
- <li> (2022). ALURE: interfaz de alto nivel para OpenAL. Servicios relacionados con la reproducción de ficheros de audio. <http://hdl.handle.net/10251/184940>. </li>
+ <li> (2022). ALURE: interfaz de alto nivel para OpenAL. Servicios relacionados con la reproducción de ficheros de audio. &lt;http://hdl.handle.net/10251/184940 &gt;. Keywords: ALURE, ALUT, OpenAL, Reproducción de ficheros de audio, Cargar audio desde fichero.</li>
  
  <!--
  <li> OpenAL_drawingFFT: (2023?). </li>
