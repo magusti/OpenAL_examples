@@ -68,8 +68,23 @@ Free Lossless Audio Codec (FLAC) , Ficheros FLAC , FLAC , OpenAL , Importar clip
  <li> (2022). OpenAL: comparativa de ALUT y libsndfile para reproducción en precarga de ficheros de audio. &lt;http://hdl.handle.net/10251/183788 &gt;. Keywords:  Códecs de audio, Waveform Audio Format (WAV), Free Lossless Audio Codec (FLAC), ficheros de audio, OpenAL Utility Toolkit (ALUT), libsndfile, OpenAL, WAVE, FLAC. </li>
  
  
+ <li> (2022). Arquitectura de niveles en OpenAL: AL, ALC y ALUT. <http://hdl.handle.net/10251/184326>
+ </li>
+ 
+ <li> (2022). OpenAL: usando libsndfile para reproducción en streaming de ficheros de audio. Universitat Politècnica de València. <http://hdl.handle.net/10251/183656>   </li>
+ 
+ <li> (2022). OpenAL: comparativa de ALUT y libsndfile para reproducción en precarga de ficheros de audio. <http://hdl.handle.net/10251/183788>  </li>
+ 
+ <li> (2022). Extendiendo OpenAL con ficheros MP3 y libmpg123. <http://hdl.handle.net/10251/183758>.   </li>
+ 
+ <li> (2022). ALURE: interfaz de alto nivel para OpenAL. Servicios relacionados con el hardware de audio. <http://hdl.handle.net/10251/184329>.   </li>
+ 
+ <li> (2022). ALURE: interfaz de alto nivel para OpenAL. Servicios relacionados con la reproducción de ficheros de audio. <http://hdl.handle.net/10251/184940>. </li>
+ 
+ <!--
  <li> OpenAL_drawingFFT: (2023?). </li>
-  
+-->
+
 </ul>
 
 
