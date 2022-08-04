@@ -58,7 +58,7 @@ Efecto Doppler., OpenAL, posicionamiento 3D audio, velocidad del sonido.
  </li>
 
  
- <li> (2021). Extendiendo OpenAL con ficheros MP3 y libMAD. &lt;http://hdl.handle.net/10251/170185  &gt;. Keywords:
+ <li> OpenAL_MP3_libmad: (2021). Extendiendo OpenAL con ficheros MP3 y libMAD. &lt;http://hdl.handle.net/10251/170185  &gt;. Keywords:
 Formatos de audio, Formatos MP3, Librería libmad, MP3, OpenAL, Importar clip de audio en MP3.
  </li>
 
