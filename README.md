@@ -1,5 +1,5 @@
 <!-- Articles docentes sobre OpenAL -->
-ll <h1>OpenAL examples</h1>
+<h1>OpenAL examples</h1>
 This repository must be considered a contribution to the community of OpenAL developers and my own way to get back the lessons that I have been learning from others.
 
 "OpenAL examples" is a repository of examples of C source code that uses OpenAL in several ways:
