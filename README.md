@@ -41,7 +41,7 @@ Audio posicional, Audio envolvente, Audio espacial, Audio 3d, Procesado de audio
 OpenAL, SDL, MP3.
  </li>
 
- <li> (2018). Extensiones para OpenAL: efectos ambientales. &lt;http://hdl.handle.net/10251/105664 &gt;. Keywords:
+ <li> OpenAL_extensionesAmbientales: (2018). Extensiones para OpenAL: efectos ambientales. &lt;http://hdl.handle.net/10251/105664 &gt;. Keywords:
  OpenAL, Extensions, EFX, simulación del entorno, efectos ambientales, Reverberación, Reverb.
  </li>
 
@@ -58,17 +58,14 @@ Efecto Doppler., OpenAL, posicionamiento 3D audio, velocidad del sonido.
  </li>
 
  
- <li> OpenAL_MP3_libmad: (2021). Extendiendo OpenAL con ficheros MP3 y libMAD. &lt;http://hdl.handle.net/10251/170185  &gt;. Keywords:
+  <li> OpenAL_MP3_libmad: (2021). Extendiendo OpenAL con ficheros MP3 y libMAD. &lt;http://hdl.handle.net/10251/170185  &gt;. Keywords:
 Formatos de audio, Formatos MP3, Librería libmad, MP3, OpenAL, Importar clip de audio en MP3.
- </li>
-
- <li> OpenAL_FLAC : (2021). Reproducción de ficheros FLAC con OpenAL y dr_flac. &lt;http://hdl.handle.net/10251/170187 &gt;. Keywords:
-Free Lossless Audio Codec (FLAC), Ficheros FLAC, FLAC, OpenAL, Importar clip de audio en FLAC, Dr_flac.
- </li>
-
-  <li> (2021). Reproducción de ficheros MIDI con OpenAL. &lt;http://hdl.handle.net/10251/170183 &gt;. Keywords:
- Formatos audio, formato MIDI, Musical Instrument Digital Interface (MIDI), WildMIDI library, MIDI, OpenAL, Importar MIDI.
   </li>
+
+  <li> OpenAL_FLAC : (2021). Reproducción de ficheros FLAC con OpenAL y dr_flac. &lt;http://hdl.handle.net/10251/170187 &gt;. Keywords:
+Free Lossless Audio Codec (FLAC), Ficheros FLAC, FLAC, OpenAL, Importar clip de audio en FLAC, Dr_flac.
+  </li>
+
 
   <li>OpenAL_MIDI_libWildMIDI: (2021). Reproducción de ficheros MIDI con OpenAL. &lt;http://hdl.handle.net/10251/170183 &gt;. Keywords:
   Formatos audio, formato MIDI, Musical Instrument Digital Interface (MIDI), WildMIDI library, MIDI, OpenAL, Importar MIDI. 
