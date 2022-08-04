@@ -53,7 +53,7 @@ OpenAL, SDL, MP3.
 Efecto Doppler., OpenAL, posicionamiento 3D audio, velocidad del sonido.
  </li>
 
- <li> (2018). Reproducción de ficheros Opus con OpenAL: precarga vs "streaming". &lt;http://hdl.handle.net/10251/109211 &gt;. Keywords:
+ <li> OpenAL_Opus: (2018). Reproducción de ficheros Opus con OpenAL: precarga vs "streaming". &lt;http://hdl.handle.net/10251/109211 &gt;. Keywords:
  Opus, OpenAL, importar Opus, PCM, audio comprimido, precarga, streaming.
  </li>
 

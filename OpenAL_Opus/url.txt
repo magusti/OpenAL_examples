@@ -1,0 +1,55 @@
+https://davidgow.net/hacks/opusal.html
+
+https://davidgow.net/hacks/opusal.html
+Using opus with OpenAL
+
+04 Jan 2013
+
+opus is a new low-latency audio codec which provides good quality sound at very low bitrates. I though I'd try getting it to work with OpenAL. Thanks to the magic of libopusfile it was pretty easy to get going.
+
+This is a quick example of how to integrate opusfile into an OpenAL program. It quite simply loads the entire file into memory and plays it — no streaming, recording or fancy spacial effects.
+
+I've also put together another demo which streams an opus file. It works pretty much the same way, but is much better for longer files, as only the currently played bit of audio is in memory at once.
+
+I was running Ubuntu 12.10, and the opus library can easily be installed with sudo apt-get install libopus-dev opus-tools (you'll want opus-tools to be able to encode opus files). Unfortunately, libopusfile is not in the repository — you'll have to download and compile it yourself.
+
+Compiling is as easy as g++ -o opusal opusal.cpp -lopusfile -lopenal, though you may need to set up your opusfile include and library paths. To run, just ./opusal < filename >.
+
+All-in-all, I am very impressed with opus and libopusfile, which is a worthy successor to vorbisfile (although it would be nice if you could decode more than ~960 samples at once).
+
+— David
+© 2013 David Gow [email|github|twitter] 
+
+
+https://en.wikipedia.org/wiki/Opus_(audio_format)
+
+
+OpenAL short example
+https://ffainelli.github.io/openal-example/
+
+
+
+Play Compressed Formats With OpenAL
+http://kcat.strangesoft.net/openal-tutorial.html
+
+
+http://mega-nerd.com/libsndfile/api.html
+libsndfile
+
+Libsndfile is a library designed to allow the reading and writing of many different sampled sound file formats (such as MS Windows WAV and the Apple/SGI AIFF format) through one standard library interface.
+
+During read and write operations, formats are seamlessly converted between the format the application program has requested or supplied and the file's data format. The application programmer can remain blissfully unaware of issues such as file endian-ness and data format. See Note 1 and Note 2.
+
+Every effort is made to keep these documents up-to-date, error free and unambiguous. However, since maintaining the documentation is the least fun part of working on libsndfile, these docs can and do fall behind the behaviour of the library. If any errors, omissions or ambiguities are found, please notify me (erikd) at mega-nerd dot com.
+
+To supplement this reference documentation, there are simple example programs included in the source code tarball. The test suite which is also part of the source code tarball is also a good place to look for the correct usage of the library functions.
+
+Finally, if you think there is some feature missing from libsndfile, check that it isn't already implemented (and documented) here.
+
+
+
+
+http://devmaster.net/p/2895/openal-lesson-8-oggvorbis-streaming-using-the-source-queue
+OpenAL Lesson 8: OggVorbis Streaming Using The Source Queue
+
+
