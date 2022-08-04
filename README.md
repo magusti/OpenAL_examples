@@ -63,12 +63,6 @@ Free Lossless Audio Codec (FLAC), Ficheros FLAC, FLAC, OpenAL, Importar clip de 
   
  <!-- <li> nomDelSubdirectori: Referència a riunet &lt; URL &gt;. Keywords: paraules clau.</li> -->
  
- <li> (2022). OpenAL: usando libsndfile para reproducción en streaming de ficheros de audio. Universitat Politècnica de València. &lt;http://hdl.handle.net/10251/183656 &gt;. Keywords: libsndfile, OpenAL, Streaming, Reproducir audio en continuo.  </li>
- 
- <li> OpenAL_MP3_libmpg123: (2022). Extendiendo OpenAL con ficheros MP3 y libmpg123. &lt;http://hdl.handle.net/10251/183758 &gt;. Keywords: mpg123, MP3, libmpg123, OpenAL.</li>
- 
- <li> (2022). OpenAL: comparativa de ALUT y libsndfile para reproducción en precarga de ficheros de audio. &lt;http://hdl.handle.net/10251/183788 &gt;. Keywords:  Códecs de audio, Waveform Audio Format (WAV), Free Lossless Audio Codec (FLAC), ficheros de audio, OpenAL Utility Toolkit (ALUT), libsndfile, OpenAL, WAVE, FLAC. </li>
- 
  
  <li> OpenAL_ALUT_vs_ALC_AL: (2022). Arquitectura de niveles en OpenAL: AL, ALC y ALUT. &lt;http://hdl.handle.net/10251/184326 &gt;. Keywords:  ALC API, Audio API, OpenAL Utility Toolkit (ALUT), Open Audio Library, ALUT, OpenAL, Operaciones de ALUT, OpenAL sin ALUT, Audio Layer (AL). </li>
  
@@ -76,7 +70,7 @@ Free Lossless Audio Codec (FLAC), Ficheros FLAC, FLAC, OpenAL, Importar clip de 
  
  <li> OpenAL_libsndfile_preload: (2022). OpenAL: comparativa de ALUT y libsndfile para reproducción en precarga de ficheros de audio. &lt;http://hdl.handle.net/10251/183788 &gt;. Keywords: Códecs de audio, Waveform Audio Format (WAV), Free Lossless Audio Codec (FLAC), Ficheros de audio, OpenAL Utility Toolkit (ALUT), Libsndfile, OpenAL, WAVE, FLAC.</li>
  
- <li> (2022). Extendiendo OpenAL con ficheros MP3 y libmpg123. &lt;http://hdl.handle.net/10251/183758 &gt;. Keywords:  .</li>
+ <li> OpenAL_MP3_libmpg123: (2022). Extendiendo OpenAL con ficheros MP3 y libmpg123. &lt;http://hdl.handle.net/10251/183758 &gt;. Keywords: mpg123, MP3, libmpg123, OpenAL.</li>
  
  <li> OpenAL_ALURE_HwAudio: (2022). ALURE: interfaz de alto nivel para OpenAL. Servicios relacionados con el hardware de audio. &lt;http://hdl.handle.net/10251/184329 &gt;. Keywords:  mpg123, MP3, libmpg123, OpenAL.</li>
  
