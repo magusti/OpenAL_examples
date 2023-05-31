@@ -13,7 +13,7 @@ The code has documentation (in Spanish) that remarks on the sources used to buil
 
 I tried to explicitly put the references from where I got the inspiration or the exact example that I reproduced, but if you miss one reference, please do not hesitate to send me an email.
 <ul>
- <li> (2011). Introducción al procesado de audio mediante OpenAL. &lt;&lt;http://hdl.handle.net/10251/12694 &gt;. Keywords:
+ <li> (2011). Introducción al procesado de audio mediante OpenAL. &lt;http://hdl.handle.net/10251/12694 &gt;. Keywords:
 Procesado de audio , Openal
 
 <li> (2011). Efectos de audio básicos mediante OpenAL. &lt;http://hdl.handle.net/10251/12696&gt;. Keywords:
