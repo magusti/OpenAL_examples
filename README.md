@@ -68,55 +68,13 @@ Free Lossless Audio Codec (FLAC), Ficheros FLAC, FLAC, OpenAL, Importar clip de 
   </li>
 
 
-  <li>OpenAL_MIDI_libWildMIDI: (2021). Reproducción de ficheros MIDI con OpenAL. &lt;http://hdl.handle.net/10251/170183 &gt;. Keywords:
+  <li> (2021). Reproducción de ficheros MIDI con OpenAL. &lt;http://hdl.handle.net/10251/170183 &gt;. Keywords:
+ Formatos audio , formato MIDI , Musical Instrument Digital Interface (MIDI) , WildMIDI library , MIDI , OpenAL , Importar MIDI.
+  </li>
+
+ <li>OpenAL_MIDI_libWildMIDI: (2021). Reproducción de ficheros MIDI con OpenAL. &lt;http://hdl.handle.net/10251/170183 &gt;. Keywords:
   Formatos audio, formato MIDI, Musical Instrument Digital Interface (MIDI), WildMIDI library, MIDI, OpenAL, Importar MIDI. 
   </li>
-=======
-Procesado de audio , Openal
-
-<li> (2011). Efectos de audio básicos mediante OpenAL. &lt;http://hdl.handle.net/10251/12696&gt;. Keywords:
-Procesado de audio , Openal
-
-<li> (2011). Introducción al empleo de técnicas de audio posicional mediante OpenAL. &lt;http://hdl.handle.net/10251/12697 &gt;. Keywords:
- <li> Audio posicional , Audio envolvente , Audio espacial , Audio 3d , Procesado de audio , Openal
-
- 
- <li> (2012). Uso del micrófono para captura de audio en OpenAL. &lt;http://hdl.handle.net/10251/17547 &gt;. Keywords:
- Captura de audio , Adquisición de audio , Micrófono , Openal
- 
- 
- <li> (2018). Extendiendo OpenAL con OGG Vorbis. &lt;http://hdl.handle.net/10251/109210 &gt;. Keywords:
- Ogg Vorbis , OpenAL , importar Vorbis , PCM , audio comprimido.
-
- <li> (2018). Extendiendo OpenAL con SDL. Caso de estudio MP3. &lt;http://hdl.handle.net/10251/105383 &gt;. Keywords:
-OpenAL , SDL , MP3
-
- <li> (2018). Extensiones para OpenAL: efectos ambientales. &lt;http://hdl.handle.net/10251/105664 &gt;. Keywords:
- OpenAL , Extensions , EFX , simulación del entorno , efectos ambientales , Reverberación , Reverb.
-
- <li> (2018). OpenAL y OpenGL: escuchar y ver el sonido. &lt;http://hdl.handle.net/10251/105550 &gt;. Keywords:
- Forma de ondas , pintar el sonido , PCM , OpenAL , OpenGL.
-
- <li> (2018). OpenAL: efecto Doppler. Posicionamiento y velocidad del sonido. &lt;http://hdl.handle.net/10251/104052 &gt;. Keywords:
-Efecto Doppler. , OpenAL , posicionamiento 3D audio , velocidad del sonido.
-
- <li> (2018). Reproducción de ficheros Opus con OpenAL: precarga vs "streaming". &lt;http://hdl.handle.net/10251/109211 &gt;. Keywords:
- Opus , OpenAL , importar Opus , PCM , audio comprimido , precarga , streaming.
-
- 
- <li> (2021). Extendiendo OpenAL con ficheros MP3 y libMAD. &lt;http://hdl.handle.net/10251/170185  &gt;. Keywords:
-Formatos de audio , Formatos MP3 , Librería libmad , MP3 , OpenAL , Importar clip de audio en MP3.
-
- <li> (2021). Reproducción de ficheros FLAC con OpenAL y dr_flac. &lt;http://hdl.handle.net/10251/170187 &gt;. Keywords:
-Free Lossless Audio Codec (FLAC) , Ficheros FLAC , FLAC , OpenAL , Importar clip de audio en FLAC , Dr_flac.
-
- <li> (2021). Reproducción de ficheros MIDI con OpenAL. &lt;http://hdl.handle.net/10251/170183 &gt;. Keywords:
- Formatos audio , formato MIDI , Musical Instrument Digital Interface (MIDI) , WildMIDI library , MIDI , OpenAL , Importar MIDI.
-
- <li>OpenAL_midi_libwildmidi: (2021). Reproducción de ficheros MIDI con OpenAL. &lt;http://hdl.handle.net/10251/170183 &gt;. Keywords:
-  Formatos audio , formato MIDI , Musical Instrument Digital Interface (MIDI) , WildMIDI library , MIDI , OpenAL , Importar MIDI. 
->>>>>>> 98c871d109ab840c8ea3f162918acc89a262b717
-  
   
  <!-- 2k21/2k22 -->
  <li> OpenAL_ALUT_vs_ALC_AL: (2022). Arquitectura de niveles en OpenAL: AL, ALC y ALUT. &lt;http://hdl.handle.net/10251/184326 &gt;. Keywords:  ALC API, Audio API, OpenAL Utility Toolkit (ALUT), Open Audio Library, ALUT, OpenAL, Operaciones de ALUT, OpenAL sin ALUT, Audio Layer (AL). </li>
@@ -134,12 +92,20 @@ OpenAL_ALURE_ficherosDeAudio: (2022). ALURE: interfaz de alto nivel para OpenAL.
  
  <!-- <li> nomDelSubdirectori: Referència a riunet &lt; URL &gt;. Keywords: paraules clau.</li> -->
  
-<<<<<<< HEAD
- <!--
- <li> OpenAL_drawingFFT: (2023?). </li>
--->
-
+ <li>[Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL](https://github.com/magusti/OpenaAL_examples/OpenAL_FFT_2D) OpenAL_drawingFFT: (2025/2026?). </li>
 </ul>
+
+
+## Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL
+
+Screenshot of OpenAL and SDL drawing FFT computed by lifftw.
+![Screenshot of OpenAL and SDL drawing FFT computed by lifftw.](OpenAL_FFT_2D/visualitzarEspectre.gif )
+![Screenshot of OpenAL and SDL drawing FFT computed by lifftw.](OpenAL_FFT_2D/visualitzarWaveformEspectreCompbinat.gif )
+
+<!-- Commented in ... -->
+In process...
+
+
 
 
 Thanks
