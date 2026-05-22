@@ -90,33 +90,10 @@ OpenAL_ALURE_ficherosDeAudio: (2022). ALURE: interfaz de alto nivel para OpenAL.
  
  <!-- <li> nomDelSubdirectori: Referència a riunet &lt; URL &gt;. Keywords: paraules clau.</li> -->
  
- <li>[Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL](https://github.com/magusti/OpenaAL_examples/OpenAL_FFT_2D) OpenAL_drawingFFT: (2025/2026?). </li>
-</ul>
-
-
-## Ejemplos de visualización de audio 2D y 3D usando OpenAL y SDL/OpenCV
-
-Screenshot 
-![]()
-
-
-<!-- Commented in ... -->
-In process...
-
-
-## Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL
-
-Screenshot of OpenAL and SDL drawing FFT computed by lifftw.
-![Screenshot of OpenAL and SDL drawing FFT computed by lifftw.](OpenAL_FFT_2D/visualitzarEspectre.gif )
-![Screenshot of OpenAL and SDL drawing FFT computed by lifftw.](OpenAL_FFT_2D/visualitzarWaveformEspectreCompbinat.gif )
-
-<!-- Commented in ... -->
-In process...
-
-
-
-
-
+ 
+ 
+ 
+ 
  <li> OpenAL_libsndfile_preload: (2022) OpenAL: comparativa de ALUT y libsndfile para reproducción en precarga de ficheros de audio. http://hdl.handle.net/10251/183788. Keywords: Códecs de audio, Waveform Audio Format (WAV), Free Lossless Audio Codec (FLAC), Ficheros de audio, OpenAL Utility Toolkit (ALUT), Libsndfile, OpenAL, WAVE, FLAC. </li>
  <li> OpenAL_libsndfile_streaming: (2022). OpenAL: usando libsndfile para reproducción en streaming de ficheros de audio. Universitat Politècnica de València. http://hdl.handle.net/10251/183656. Keywords: Keyword: ibsndfile, OpenAL, Streaming, Reproducir audio en continuo.</li>
  
@@ -125,8 +102,40 @@ In process...
  
  <li> OpenAL_drawingFFT: (2024) ???? </li>
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <li>[Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL](https://github.com/magusti/OpenaAL_examples/OpenAL_FFT_2D) OpenAL_drawingFFT: (2025/2026). 
+ 
+## Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL
+
+Screenshot of OpenAL and SDL drawing FFT computed by lifftw.
+![Screenshot of OpenAL and SDL drawing FFT computed by lifftw.](OpenAL_FFT_2D/visualitzarEspectre.gif )
+![Screenshot of OpenAL and SDL drawing FFT computed by lifftw.](OpenAL_FFT_2D/visualitzarWaveformEspectreCompbinat.gif )
+
+<!-- Commented in ... -->
+ In process...
+</li>
+ <li>[Visualización de la onda de sonido y del espectro de frecuencias ](https://github.com/magusti/OpenaAL_examples/OpenAL_drawing_WAVE_FFT: (2026/2027?). 
+## Ejemplos de visualización de audio 2D y 3D usando OpenAL y SDL/OpenCV
+
+Screenshot 
+![]()
+
+
+<!-- Commented in ... -->
+In process...
+</li>
 </ul>
 
+
+
+ 
 
 <!-- Agraiments --> 
 Thanks
