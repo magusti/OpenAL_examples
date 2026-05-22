@@ -121,10 +121,10 @@ Screenshot
 
  References:
   <ul>
-   <li>![OpenAL y OpenGL: escuchar y ver el sonido.](http://hdl.handle.net/10251/105550).
+   <li>OpenAL y OpenGL: escuchar y ver el sonido. http://hdl.handle.net/10251/105550.
    </li>
    <li>Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL
-   </li>[Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL](https://github.com/magusti/OpenaAL_examples/OpenAL_FFT_2D)
+   </li>Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL. https://github.com/magusti/OpenaAL_examples/OpenAL_FFT_2D.
    </ul>
 
 <!-- Commented in ... -->
