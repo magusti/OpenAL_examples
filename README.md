@@ -137,23 +137,24 @@ In process...
  
 
 <!-- Agraiments --> 
-Thanks
- To Loki Soft for create and distribute OpenAL for free. I hope it will become as free as it deserves. And also by the ["OpenAL Specification and Reference"](https://www.openal.org/documentation/).
+<h1>Thanks to</h1>
 
- Thanks to the community of persons that maintain the OpenAL website  <http://www.openal.org>, the "openal mailing list" <https://openal.org/mailman/listinfo/openal>  and especially to Chris Robinson by his OpenAL Soft <https://openal-soft.org/> that makes possible that everyone can use this standard.
+ Loki Soft for create and distribute OpenAL for free. I hope it will become as free as it deserves. And also by the ["OpenAL Specification and Reference"](https://www.openal.org/documentation/).
 
- To Garin Hiebert, Garin Hiebert, Peter Harrison and Daniel Peacock for the OpenAL documentation:  "OpenAL Programmer's Guide" &lt;https://www.openal.org/documentation/ &gt;.
+ The community of persons that maintain the OpenAL website  <http://www.openal.org>, the "openal mailing list" <https://openal.org/mailman/listinfo/openal>  and especially to Chris Robinson by his OpenAL Soft <https://openal-soft.org/> that makes possible that everyone can use this standard.
 
- To Steve Baker and Sven Panne <http://distro.ibiblio.org/rootlinux/rootlinux-ports/more/freealut/freealut-1.1.0/doc/alut.html#alutGetMIMETypes> for the "OpenAL Utility Toolkit (ALUT) Reference Manual".
+ Garin Hiebert, Garin Hiebert, Peter Harrison and Daniel Peacock for the OpenAL documentation:  "OpenAL Programmer's Guide" &lt;https://www.openal.org/documentation/ &gt;.
 
- To vancegroup <https://github.com/vancegroup/freealut/> for implementing "freealut" <http://distro.ibiblio.org/rootlinux/rootlinux-ports/more/freealut/freealut-1.1.0/doc/alut.html>.
+ Steve Baker and Sven Panne <http://distro.ibiblio.org/rootlinux/rootlinux-ports/more/freealut/freealut-1.1.0/doc/alut.html#alutGetMIMETypes> for the "OpenAL Utility Toolkit (ALUT) Reference Manual".
 
- To Daniel Peacock, Peter Harrison, Andrea D’Orta, Valery Carpentier and Edward Cooper for the "Effects Extension Guide" &lt;https://usermanual.wiki/Pdf/Effects20Extension20Guide.90272296/html &gt;.
+ vancegroup <https://github.com/vancegroup/freealut/> for implementing "freealut" <http://distro.ibiblio.org/rootlinux/rootlinux-ports/more/freealut/freealut-1.1.0/doc/alut.html>.
 
- To Ryan A. Pavlik <https://github.com/rpavlik/openal-svn-mirror>  for publish the original fork of OpenAL.
+ Daniel Peacock, Peter Harrison, Andrea D’Orta, Valery Carpentier and Edward Cooper for the "Effects Extension Guide" <https://usermanual.wiki/Pdf/Effects20Extension20Guide.90272296/html>.
+
+ Ryan A. Pavlik <https://github.com/rpavlik/openal-svn-mirror>  for publish the original fork of OpenAL.
 
  
- Thanks to the community of persons that maintain the OpenAL website  &lt;http://www.openal.org&gt;, the "openal mailing list" &lt;https://openal.org/mailman/listinfo/openal&gt;, and to everybody that ask and answer in the "openal mailing list".
+ Thanks to the community of persons that maintain the OpenAL website  <http://www.openal.org>, the "openal mailing list" &lt;https://openal.org/mailman/listinfo/openal&gt;, and to everybody that ask and answer in the "openal mailing list".
 
  And especially to Chris Robinson by his OpenAL Soft &lt;https://openal-soft.org/&gt; / &lt;https://github.com/kcat/openal-soft&gt; that makes possible that everyone can use this standard and for publish it under a LGPL license. Also for ALURE &lt;https://github.com/kcat/alure&gt;, and also for his expert and kind words in emails.
 
