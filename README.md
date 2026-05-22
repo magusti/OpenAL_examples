@@ -100,33 +100,32 @@ OpenAL_ALURE_ficherosDeAudio: (2022). ALURE: interfaz de alto nivel para OpenAL.
  
  <li> OpenAL_Python/OpenAL_Python_basicSignals/: (2023) OpenAL con Python: generación de señales básicas. Keywords: OpenAL, ALUT, Python, generación de señales básicas, whitenoise, ruido blanco, senoidal.</li>
  
- <li> OpenAL_drawingFFT: (2024) ???? </li>
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
  <li>[Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL](https://github.com/magusti/OpenaAL_examples/OpenAL_FFT_2D) OpenAL_drawingFFT: (2025/2026). 
  
 ## Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL
 
 Screenshot of OpenAL and SDL drawing FFT computed by lifftw.
 ![Screenshot of OpenAL and SDL drawing FFT computed by lifftw.](OpenAL_FFT_2D/visualitzarEspectre.gif )
-![Screenshot of OpenAL and SDL drawing FFT computed by lifftw.](OpenAL_FFT_2D/visualitzarWaveformEspectreCompbinat.gif )
 
 <!-- Commented in ... -->
  In process...
-</li>
+ </li>
+ 
  <li>[Visualización de la onda de sonido y del espectro de frecuencias ](https://github.com/magusti/OpenaAL_examples/OpenAL_drawing_WAVE_FFT: (2026/2027?). 
 ## Ejemplos de visualización de audio 2D y 3D usando OpenAL y SDL/OpenCV
 
 Screenshot 
-![]()
+![Screenshot of Audio drawn in 2D: OpenAL and SDL drawing WAVE sound and FFT spectrum.](OpenAL_drawingAudio_2D_3D/visualitzarWaveformEspectreCompbinat.gif )
 
+
+ References:
+  <ul>
+   <li>![OpenAL y OpenGL: escuchar y ver el sonido.](http://hdl.handle.net/10251/105550).
+   </li>
+   <li>Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL
+   </li>[Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL](https://github.com/magusti/OpenaAL_examples/OpenAL_FFT_2D)
+   </ul>
 
 <!-- Commented in ... -->
 In process...
