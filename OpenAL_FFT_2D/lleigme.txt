@@ -1,0 +1,11 @@
+Referencia
+Referencia
+
+ Francis Engelmann."Some tools to visualize audio input using OpenAL and FFTW" Disponible en <https://github.com/francisengelmann/sound/tree/masterA.
+Utiliza OpenCV + OpenAL + FFTW
+
+Esta versión utiliza SDL para la parte gráfica.
+
+Compilar con:
+gcc visualizarFFT_OpenAL_SDL__minim.c -o visualizarFFT_OpenAL_SDL__minim -lopenal -lSDL2 -lfftw3 -lsndfile -lm && visualizarFFT_OpenAL_SDL__minim fitxer_WAV
+
