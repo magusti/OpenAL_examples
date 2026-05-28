@@ -116,6 +116,7 @@ Keywords:
 ## Grabar la salida de audio 3D a fichero: OpenALSoft LoopBack
 
 Screenshots: 
+Arquitecture of the example of OpenAL Soft's LoopBack.
 ![Arquitecture of the example of OpenAL Soft's LoopBack.](OpenALSoft_LoopBack/esquemaDeLaSolucio.png )
 
 ![Visualization of the recorded audio vs the original soundclip in Audacity.](OpenALSoft_LoopBack/resultadoObtenido.png )
@@ -127,7 +128,7 @@ Screenshots:
    </ul>
 -->
 <!-- Commented in ... -->
-In process...
+M. Agustí. (2026). Grabar la salida de audio 3D de OpenAL / OpenAL Soft a fichero. https://riunet.upv.es/handle/10251/235474.
 </li>
 
 <li>[Visualización de la onda de sonido y del espectro de frecuencias ](https://github.com/magusti/OpenaAL_examples/OpenAL_drawing_WAVE_FFT: (2026/2027?). 
