@@ -117,9 +117,10 @@ Keywords:
 
 Screenshots: 
 Arquitecture of the example of OpenAL Soft's LoopBack.
-![Arquitecture of the example of OpenAL Soft's LoopBack.](OpenALSoft_LoopBack/esquemaDeLaSolucio.png )
+![Arquitecture of the example of OpenAL Soft's LoopBack.](OpenALSoft_alLoopBack/esquemaDeLaSolucio.png )
 
-![Visualization of the recorded audio vs the original soundclip in Audacity.](OpenALSoft_LoopBack/resultadoObtenido.png )
+Visualization of the recorded audio vs the original soundclip in Audacity.
+![Visualization of the recorded audio vs the original soundclip in Audacity.](OpenALSoft_alLoopBack/resultadoObtenido.png )
 <!--
  References:
   <ul>
