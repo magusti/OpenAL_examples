@@ -1,4 +1,4 @@
-<!-- Articles docentes sobre OpenAL -->
+()<!-- Articles docentes sobre OpenAL -->
 <h1>OpenAL examples</h1>
 This repository must be considered a contribution to the community of OpenAL developers and my own way to get back the lessons that I have been learning from others.
 
@@ -112,7 +112,25 @@ Keywords:
  In process...
  </li>
  
- <li>[Visualización de la onda de sonido y del espectro de frecuencias ](https://github.com/magusti/OpenaAL_examples/OpenAL_drawing_WAVE_FFT: (2026/2027?). 
+ <li>OpenALSoft_alLoopBack: (2025/2026) [Grabar la salida de audio 3D de OpenAL / OpenAL Soft a fichero](https://github.com/magusti/OpenaAL_examples/OpenALSoft_alLoopBack: . 
+## Grabar la salida de audio 3D a fichero: OpenALSoft LoopBack
+
+Screenshots: 
+![Arquitecture of the example of OpenAL Soft's LoopBack.](OpenALSoft LoopBack/esquemaDeLaSolucio.png )
+
+![Visualization of the recorded audio vs the original soundclip in Audacity.](OpenALSoft LoopBack/resultadoObtenido.png )
+<!--
+ References:
+  <ul>
+   <li>
+   </li>
+   </ul>
+-->
+<!-- Commented in ... -->
+In process...
+</li>
+
+<li>[Visualización de la onda de sonido y del espectro de frecuencias ](https://github.com/magusti/OpenaAL_examples/OpenAL_drawing_WAVE_FFT: (2026/2027?). 
 ## Ejemplos de visualización de audio 2D y 3D usando OpenAL y SDL/OpenCV
 
 Screenshot 
@@ -123,13 +141,14 @@ Screenshot
   <ul>
    <li>OpenAL y OpenGL: escuchar y ver el sonido. http://hdl.handle.net/10251/105550.
    </li>
-   <li>Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL
-   </li>Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL. https://github.com/magusti/OpenaAL_examples/OpenAL_FFT_2D.
+   <li>Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL. https://github.com/magusti/OpenaAL_examples/OpenAL_FFT_2D.
+   </li>
    </ul>
 
 <!-- Commented in ... -->
 In process...
 </li>
+
 </ul>
 
 
