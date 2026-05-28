@@ -116,9 +116,9 @@ Keywords:
 ## Grabar la salida de audio 3D a fichero: OpenALSoft LoopBack
 
 Screenshots: 
-![Arquitecture of the example of OpenAL Soft's LoopBack.](OpenALSoft LoopBack/esquemaDeLaSolucio.png )
+![Arquitecture of the example of OpenAL Soft's LoopBack.](OpenALSoft_LoopBack/esquemaDeLaSolucio.png )
 
-![Visualization of the recorded audio vs the original soundclip in Audacity.](OpenALSoft LoopBack/resultadoObtenido.png )
+![Visualization of the recorded audio vs the original soundclip in Audacity.](OpenALSoft_LoopBack/resultadoObtenido.png )
 <!--
  References:
   <ul>
