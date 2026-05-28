@@ -112,7 +112,7 @@ Keywords:
  In process...
  </li>
  
- <li>OpenALSoft_alLoopBack: (2025/2026) [Grabar la salida de audio 3D de OpenAL / OpenAL Soft a fichero](https://github.com/magusti/OpenaAL_examples/OpenALSoft_alLoopBack). 
+ <li>OpenALSoft_alLoopBack: (2025/2026) [Grabar la salida de audio 3D de OpenAL / OpenAL Soft a fichero](https://github.com/magusti/OpenAL_examples/tree/main/OpenALSoft_alLoopBack). 
  
 ## Grabar la salida de audio 3D a fichero: OpenALSoft LoopBack
 
