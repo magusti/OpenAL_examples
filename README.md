@@ -130,10 +130,10 @@ Visualization of the recorded audio vs the original soundclip in Audacity.
    </ul>
 -->
 <!-- Commented in ... -->
-M. Agustí. (2026). Grabar la salida de audio 3D de OpenAL / OpenAL Soft a fichero. https://riunet.upv.es/handle/10251/235474.
+Commented in [M. Agustí. (2026). Grabar la salida de audio 3D de OpenAL / OpenAL Soft a fichero.](https://riunet.upv.es/handle/10251/235474)
 </li>
 
-<li>[Visualización de la onda de sonido y del espectro de frecuencias ](https://github.com/magusti/OpenaAL_examples/OpenAL_drawing_WAVE_FFT: (look forward on 2026/2027?). 
+<li>[Visualización de la onda de sonido y del espectro de frecuencias 2D y 3D](https://github.com/magusti/OpenaAL_examples/OpenAL_drawing_WAVE_FFT: (look forward on 2026/2027?). 
 
 ## Ejemplos de visualización de audio 2D y 3D usando OpenAL y SDL/OpenCV
 
@@ -145,12 +145,10 @@ Screenshot
   <ul>
    <li>OpenAL y OpenGL: escuchar y ver el sonido. http://hdl.handle.net/10251/105550.
    </li>
-   <li>Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL. https://github.com/magusti/OpenaAL_examples/OpenAL_FFT_2D.
-   </li>
    </ul>
 
-<!-- Commented in ... -->
-In process...
+<!-- Commented in / In process... -->
+  Commented in [M. Agustí (2026). Introducción al cálculo y visualización del espectro de frecuencias embebido en OpenAL.)[https://github.com/magusti/OpenaAL_examples/OpenAL_FFT_2D]
 </li>
 
 </ul>
